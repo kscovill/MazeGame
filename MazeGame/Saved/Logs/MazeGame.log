@@ -1,0 +1,1581 @@
+﻿Log file open, 01/24/19 16:19:44
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MazeGame
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.282143
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.110s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.01.24-23.19.44:298][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.01.24-23.19.44:298][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.01.24-23.19.44:298][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Documents/GitHub/MazeGame/MazeGame/Saved/Config/Windows/Engine.ini]
+[2019.01.24-23.19.44:298][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.01.24-23.19.44:298][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Documents/GitHub/MazeGame/MazeGame/Saved/Config/Windows/Engine.ini]
+[2019.01.24-23.19.44:298][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Documents/GitHub/MazeGame/MazeGame/Saved/Config/Windows/Engine.ini]
+[2019.01.24-23.19.44:298][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.01.24-23.19.44:298][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.01.24-23.19.44:298][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.01.24-23.19.44:298][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.01.24-23.19.44:298][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.01.24-23.19.44:298][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.01.24-23.19.44:298][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.01.24-23.19.44:299][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.01.24-23.19.44:299][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.01.24-23.19.44:299][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.01.24-23.19.44:299][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.01.24-23.19.44:299][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.01.24-23.19.44:299][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.01.24-23.19.44:299][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Documents/GitHub/MazeGame/MazeGame/Saved/Config/Windows/Engine.ini]
+[2019.01.24-23.19.44:299][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.01.24-23.19.44:299][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.01.24-23.19.44:299][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.01.24-23.19.44:299][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.01.24-23.19.44:299][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.01.24-23.19.44:299][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.01.24-23.19.44:299][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.01.24-23.19.44:299][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.01.24-23.19.44:299][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.01.24-23.19.44:299][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.01.24-23.19.44:299][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.01.24-23.19.44:299][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.01.24-23.19.44:299][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.01.24-23.19.44:299][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.01.24-23.19.44:299][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Documents/GitHub/MazeGame/MazeGame/Saved/Config/Windows/Engine.ini]
+[2019.01.24-23.19.44:299][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Documents/GitHub/MazeGame/MazeGame/Saved/Config/Windows/Engine.ini]
+[2019.01.24-23.19.44:304][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Documents/GitHub/MazeGame/MazeGame/Saved/Config/Windows/Scalability.ini]
+[2019.01.24-23.19.44:304][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.24-23.19.44:305][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.24-23.19.44:305][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Documents/GitHub/MazeGame/MazeGame/Saved/Config/Windows/Scalability.ini]
+[2019.01.24-23.19.44:305][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.24-23.19.44:305][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Documents/GitHub/MazeGame/MazeGame/Saved/Config/Windows/Scalability.ini]
+[2019.01.24-23.19.44:305][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.24-23.19.44:305][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.24-23.19.44:305][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.24-23.19.44:305][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.24-23.19.44:305][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.24-23.19.44:305][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.24-23.19.44:305][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.24-23.19.44:305][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.24-23.19.44:305][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.24-23.19.44:305][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.24-23.19.44:305][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.24-23.19.44:305][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.24-23.19.44:305][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.24-23.19.44:305][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.24-23.19.44:305][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.24-23.19.44:305][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.24-23.19.44:305][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.24-23.19.44:305][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.24-23.19.44:305][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Documents/GitHub/MazeGame/MazeGame/Saved/Config/Windows/Scalability.ini]
+[2019.01.24-23.19.44:305][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.24-23.19.44:305][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.24-23.19.44:305][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.24-23.19.44:305][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.24-23.19.44:305][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.24-23.19.44:306][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.24-23.19.44:306][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.24-23.19.44:306][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.24-23.19.44:306][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.24-23.19.44:306][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.24-23.19.44:306][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.24-23.19.44:306][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.24-23.19.44:306][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.24-23.19.44:306][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.24-23.19.44:306][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.24-23.19.44:306][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.24-23.19.44:306][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.24-23.19.44:306][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.24-23.19.44:306][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.24-23.19.44:306][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.24-23.19.44:306][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.24-23.19.44:306][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.24-23.19.44:306][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.24-23.19.44:306][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.24-23.19.44:306][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.24-23.19.44:306][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.24-23.19.44:306][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.24-23.19.44:306][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.24-23.19.44:306][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.24-23.19.44:306][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.24-23.19.44:306][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Documents/GitHub/MazeGame/MazeGame/Saved/Config/Windows/Scalability.ini]
+[2019.01.24-23.19.44:306][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.24-23.19.44:306][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.24-23.19.44:307][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.24-23.19.44:307][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.24-23.19.44:307][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.24-23.19.44:307][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.24-23.19.44:307][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.24-23.19.44:307][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.24-23.19.44:307][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Documents/GitHub/MazeGame/MazeGame/Saved/Config/Windows/Scalability.ini]
+[2019.01.24-23.19.44:307][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.24-23.19.44:307][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.24-23.19.44:307][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.24-23.19.44:307][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.24-23.19.44:307][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.24-23.19.44:307][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.24-23.19.44:307][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.24-23.19.44:307][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.24-23.19.44:307][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.24-23.19.44:307][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.24-23.19.44:307][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.24-23.19.44:307][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.24-23.19.44:307][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.24-23.19.44:308][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Documents/GitHub/MazeGame/MazeGame/Saved/Config/Windows/Scalability.ini]
+[2019.01.24-23.19.44:308][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.24-23.19.44:308][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.24-23.19.44:308][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.24-23.19.44:308][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.24-23.19.44:328][  0]LogHAL: Display: Platform has ~ 16 GB [17135083520 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.24-23.19.44:328][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.01.24-23.19.44:328][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.24-23.19.44:328][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Documents/GitHub/MazeGame/MazeGame/Saved/Config/Windows/Scalability.ini]
+[2019.01.24-23.19.44:328][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Documents/GitHub/MazeGame/MazeGame/Saved/Config/Windows/Scalability.ini]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Documents/GitHub/MazeGame/MazeGame/Saved/Config/Windows/Scalability.ini]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Documents/GitHub/MazeGame/MazeGame/Saved/Config/Windows/Scalability.ini]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Documents/GitHub/MazeGame/MazeGame/Saved/Config/Windows/Scalability.ini]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.24-23.19.44:329][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.24-23.19.44:330][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.24-23.19.44:330][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Documents/GitHub/MazeGame/MazeGame/Saved/Config/Windows/Scalability.ini]
+[2019.01.24-23.19.44:330][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.24-23.19.44:330][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.24-23.19.44:330][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.24-23.19.44:330][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.24-23.19.44:330][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.24-23.19.44:330][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.24-23.19.44:330][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.24-23.19.44:330][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.24-23.19.44:330][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.24-23.19.44:330][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.24-23.19.44:330][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.24-23.19.44:330][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.24-23.19.44:330][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.24-23.19.44:330][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Documents/GitHub/MazeGame/MazeGame/Saved/Config/Windows/Scalability.ini]
+[2019.01.24-23.19.44:330][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.24-23.19.44:330][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.24-23.19.44:330][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.01.24-23.19.44:330][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.01.24-23.19.44:330][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Documents/GitHub/MazeGame/MazeGame/Saved/Config/Windows/Engine.ini]
+[2019.01.24-23.19.44:330][  0]LogInit: Computer: DESKTOP-R3E79K2
+[2019.01.24-23.19.44:330][  0]LogInit: User: kyles
+[2019.01.24-23.19.44:330][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.24-23.19.44:330][  0]LogInit: High frequency timer resolution =3.914063 MHz
+[2019.01.24-23.19.44:331][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.01.24-23.19.44:331][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.24-23.19.44:331][  0]LogMemory: Process Physical Memory: 102.75 MB used, 102.75 MB peak
+[2019.01.24-23.19.44:331][  0]LogMemory: Process Virtual Memory: 90.12 MB used, 90.12 MB peak
+[2019.01.24-23.19.44:331][  0]LogMemory: Physical Memory: 8216.91 MB used,  8124.38 MB free, 16341.29 MB total
+[2019.01.24-23.19.44:331][  0]LogMemory: Virtual Memory: 4646.41 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.01.24-23.19.44:351][  0]LogInit: Using OS detected language (en-US).
+[2019.01.24-23.19.44:351][  0]LogInit: Using OS detected locale (en-US).
+[2019.01.24-23.19.44:352][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.01.24-23.19.44:657][  0]LogStreaming: Display: Took  0.306s to InitEngineTextLocalization.
+[2019.01.24-23.19.44:657][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.24-23.19.44:691][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.24-23.19.44:691][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.24-23.19.44:847][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.24-23.19.44:847][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.24-23.19.44:900][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.01.24-23.19.44:900][  0]LogD3D11RHI:       8082/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.01.24-23.19.44:902][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.24-23.19.44:902][  0]LogD3D11RHI:       0/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.24-23.19.44:902][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.24-23.19.44:909][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.24-23.19.44:909][  0]LogD3D11RHI:     GPU DeviceId: 0x1be1 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.24-23.19.44:909][  0]LogWindows: EnumDisplayDevices:
+[2019.01.24-23.19.44:909][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.01.24-23.19.44:909][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.01.24-23.19.44:909][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.01.24-23.19.44:910][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.01.24-23.19.44:910][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.01.24-23.19.44:910][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.01.24-23.19.44:910][  0]LogD3D11RHI:   Driver Version: 417.35 (internal:25.21.14.1735, unified:417.35)
+[2019.01.24-23.19.44:910][  0]LogD3D11RHI:      Driver Date: 12-11-2018
+[2019.01.24-23.19.44:910][  0]LogRHI: Texture pool is 5657 MB (70% of 8082 MB)
+[2019.01.24-23.19.44:946][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.24-23.19.44:963][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.24-23.19.45:248][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.24-23.19.45:258][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.24-23.19.45:268][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.24-23.19.45:278][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.24-23.19.45:288][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.24-23.19.45:297][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.24-23.19.45:307][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.24-23.19.45:317][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.24-23.19.45:322][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.24-23.19.45:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-23.19.45:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-23.19.45:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-23.19.45:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-23.19.45:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-23.19.45:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-23.19.45:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-23.19.45:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-23.19.45:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-23.19.45:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-23.19.45:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-23.19.45:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-23.19.45:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-23.19.45:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-23.19.45:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-23.19.45:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-23.19.45:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-23.19.45:377][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-23.19.45:378][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.24-23.19.45:432][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.24-23.19.45:432][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.24-23.19.45:477][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.24-23.19.45:477][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.24-23.19.45:491][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.24-23.19.45:501][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.24-23.19.45:510][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.24-23.19.45:520][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.24-23.19.45:553][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.24-23.19.45:553][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.24-23.19.45:553][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.24-23.19.45:596][  0]LogShaderCompilers: Guid format shader working directory is 9 characters bigger than the processId version (D:/Documents/GitHub/MazeGame/MazeGame/Intermediate/Shaders/WorkingDirectory/5784/).
+[2019.01.24-23.19.45:597][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kyles/AppData/Local/Temp/UnrealShaderWorkingDir/5F429E2C41D450F5440757A632345560/'.
+[2019.01.24-23.19.45:598][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.24-23.19.45:598][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.24-23.19.45:598][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.24-23.19.46:035][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.24-23.19.46:080][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/kyles/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.24-23.19.46:080][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/kyles/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.01.24-23.19.46:080][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Documents/GitHub/MazeGame/MazeGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.24-23.19.46:080][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.24-23.19.46:080][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Documents/GitHub/MazeGame/MazeGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.24-23.19.46:080][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.24-23.19.46:091][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.24-23.19.46:091][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.24-23.19.46:091][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.01.24-23.19.46:103][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kyles/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.24-23.19.46:103][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.24-23.19.46:103][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.24-23.19.46:120][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.24-23.19.46:121][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.24-23.19.46:122][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.24-23.19.46:198][  0]LogAssetRegistry: FAssetRegistry took 0.0308 seconds to start up
+[2019.01.24-23.19.46:480][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.24-23.19.46:602][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.24-23.19.46:605][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.24-23.19.46:605][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.24-23.19.46:605][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.24-23.19.46:605][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.24-23.19.46:622][  0]LogNetVersion: MazeGame 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 207808261)
+[2019.01.24-23.19.47:041][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.065679 seconds
+[2019.01.24-23.19.47:046][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.01.24-23.19.47:046][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.01.24-23.19.47:046][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.24-23.19.47:755][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.24-23.19.47:778][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.24-23.19.48:354][  0]SourceControl: Source control is disabled
+[2019.01.24-23.19.48:354][  0]SourceControl: Source control is disabled
+[2019.01.24-23.19.48:355][  0]SourceControl: Source control is disabled
+[2019.01.24-23.19.48:356][  0]SourceControl: Source control is disabled
+[2019.01.24-23.19.48:501][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.24-23.19.48:552][  0]LogOcInput: OculusInput pre-init called
+[2019.01.24-23.19.48:678][  0]LogEngine: Initializing Engine...
+[2019.01.24-23.19.48:678][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.24-23.19.48:679][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.24-23.19.48:679][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.24-23.19.48:679][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.24-23.19.48:679][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.24-23.19.48:881][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.24-23.19.48:891][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.24-23.19.48:901][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.24-23.19.48:952][  0]LogInit: FAudioDevice initialized.
+[2019.01.24-23.19.48:952][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.24-23.19.49:022][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/kyles/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.24-23.19.49:032][  0]LogInit: Texture streaming: Enabled
+[2019.01.24-23.19.49:046][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.24-23.19.49:060][  0]LogInit: Transaction tracking system initialized
+[2019.01.24-23.19.49:078][  0]BlueprintLog: New page: Editor Load
+[2019.01.24-23.19.49:167][  0]LocalizationService: Localization service is disabled
+[2019.01.24-23.19.49:550][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/GitHub/MazeGame/MazeGame/Content/' took 0.01s
+[2019.01.24-23.19.49:550][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.24-23.19.49:550][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.24-23.19.49:550][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.24-23.19.49:550][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.24-23.19.49:550][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.24-23.19.49:551][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.24-23.19.49:551][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.24-23.19.49:650][  0]SourceControl: Source control is disabled
+[2019.01.24-23.19.49:651][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.21/FeaturePacks/StarterContent.upack)
+[2019.01.24-23.19.49:654][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2019.01.24-23.19.49:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2019.01.24-23.19.49:669][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2019.01.24-23.19.49:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2019.01.24-23.19.49:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2019.01.24-23.19.49:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2019.01.24-23.19.49:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2019.01.24-23.19.49:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2019.01.24-23.19.49:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2019.01.24-23.19.49:711][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2019.01.24-23.19.49:716][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2019.01.24-23.19.49:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2019.01.24-23.19.49:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Audio/Collapse01.uasset"
+[2019.01.24-23.19.49:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Audio/Collapse02.uasset"
+[2019.01.24-23.19.49:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2019.01.24-23.19.49:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Audio/Explosion01.uasset"
+[2019.01.24-23.19.49:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Audio/Explosion02.uasset"
+[2019.01.24-23.19.49:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2019.01.24-23.19.49:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Audio/Fire01.uasset"
+[2019.01.24-23.19.49:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2019.01.24-23.19.49:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2019.01.24-23.19.49:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2019.01.24-23.19.49:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Audio/Light01.uasset"
+[2019.01.24-23.19.49:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2019.01.24-23.19.49:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Audio/Light02.uasset"
+[2019.01.24-23.19.49:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2019.01.24-23.19.49:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Audio/Smoke01.uasset"
+[2019.01.24-23.19.49:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2019.01.24-23.19.49:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2019.01.24-23.19.49:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2019.01.24-23.19.49:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2019.01.24-23.19.49:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2019.01.24-23.19.49:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2019.01.24-23.19.49:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2019.01.24-23.19.49:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Audio/Steam01.uasset"
+[2019.01.24-23.19.49:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2019.01.24-23.19.49:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2019.01.24-23.19.49:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2019.01.24-23.19.49:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2019.01.24-23.19.49:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2019.01.24-23.19.49:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2019.01.24-23.19.49:904][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2019.01.24-23.19.49:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2019.01.24-23.19.49:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2019.01.24-23.19.49:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2019.01.24-23.19.49:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2019.01.24-23.19.49:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2019.01.24-23.19.49:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2019.01.24-23.19.49:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2019.01.24-23.19.49:952][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2019.01.24-23.19.49:970][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2019.01.24-23.19.49:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2019.01.24-23.19.50:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2019.01.24-23.19.50:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2019.01.24-23.19.50:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2019.01.24-23.19.50:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Maps/Minimal_Default.umap"
+[2019.01.24-23.19.50:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2019.01.24-23.19.50:076][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Maps/StarterMap.umap"
+[2019.01.24-23.19.50:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2019.01.24-23.19.50:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2019.01.24-23.19.50:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2019.01.24-23.19.50:140][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2019.01.24-23.19.50:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2019.01.24-23.19.50:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2019.01.24-23.19.50:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2019.01.24-23.19.50:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2019.01.24-23.19.50:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2019.01.24-23.19.50:176][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2019.01.24-23.19.50:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2019.01.24-23.19.50:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2019.01.24-23.19.50:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2019.01.24-23.19.50:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2019.01.24-23.19.50:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2019.01.24-23.19.50:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2019.01.24-23.19.50:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2019.01.24-23.19.50:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2019.01.24-23.19.50:235][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Glass.uasset"
+[2019.01.24-23.19.50:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2019.01.24-23.19.50:248][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2019.01.24-23.19.50:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2019.01.24-23.19.50:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2019.01.24-23.19.50:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2019.01.24-23.19.50:274][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2019.01.24-23.19.50:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2019.01.24-23.19.50:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2019.01.24-23.19.50:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2019.01.24-23.19.50:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2019.01.24-23.19.50:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2019.01.24-23.19.50:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2019.01.24-23.19.50:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2019.01.24-23.19.50:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2019.01.24-23.19.50:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2019.01.24-23.19.50:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2019.01.24-23.19.50:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2019.01.24-23.19.50:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2019.01.24-23.19.50:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2019.01.24-23.19.50:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2019.01.24-23.19.50:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2019.01.24-23.19.50:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2019.01.24-23.19.50:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2019.01.24-23.19.50:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2019.01.24-23.19.50:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2019.01.24-23.19.50:403][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2019.01.24-23.19.50:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Particles/P_Explosion.uasset"
+[2019.01.24-23.19.50:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Particles/P_Fire.uasset"
+[2019.01.24-23.19.50:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Particles/P_Smoke.uasset"
+[2019.01.24-23.19.50:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Particles/P_Sparks.uasset"
+[2019.01.24-23.19.50:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2019.01.24-23.19.50:466][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2019.01.24-23.19.50:472][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2019.01.24-23.19.50:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2019.01.24-23.19.50:484][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2019.01.24-23.19.50:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2019.01.24-23.19.50:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2019.01.24-23.19.50:501][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2019.01.24-23.19.50:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2019.01.24-23.19.50:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2019.01.24-23.19.50:520][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2019.01.24-23.19.50:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Props/MaterialSphere.uasset"
+[2019.01.24-23.19.50:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Props/SM_Bush.uasset"
+[2019.01.24-23.19.50:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Props/SM_Chair.uasset"
+[2019.01.24-23.19.50:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2019.01.24-23.19.50:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Props/SM_Couch.uasset"
+[2019.01.24-23.19.50:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Props/SM_Door.uasset"
+[2019.01.24-23.19.50:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2019.01.24-23.19.50:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2019.01.24-23.19.50:583][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2019.01.24-23.19.50:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2019.01.24-23.19.50:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2019.01.24-23.19.50:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2019.01.24-23.19.50:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2019.01.24-23.19.50:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Props/SM_Rock.uasset"
+[2019.01.24-23.19.50:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Props/SM_Shelf.uasset"
+[2019.01.24-23.19.50:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Props/SM_Stairs.uasset"
+[2019.01.24-23.19.50:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Props/SM_Statue.uasset"
+[2019.01.24-23.19.50:660][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Props/SM_TableRound.uasset"
+[2019.01.24-23.19.50:667][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2019.01.24-23.19.50:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2019.01.24-23.19.50:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2019.01.24-23.19.50:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2019.01.24-23.19.50:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2019.01.24-23.19.50:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2019.01.24-23.19.50:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2019.01.24-23.19.50:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2019.01.24-23.19.50:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2019.01.24-23.19.50:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2019.01.24-23.19.50:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2019.01.24-23.19.50:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2019.01.24-23.19.50:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2019.01.24-23.19.50:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2019.01.24-23.19.50:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2019.01.24-23.19.50:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2019.01.24-23.19.50:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2019.01.24-23.19.50:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2019.01.24-23.19.50:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2019.01.24-23.19.50:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2019.01.24-23.19.50:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2019.01.24-23.19.50:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2019.01.24-23.19.50:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2019.01.24-23.19.50:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2019.01.24-23.19.50:820][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2019.01.24-23.19.50:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2019.01.24-23.19.50:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2019.01.24-23.19.50:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2019.01.24-23.19.50:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2019.01.24-23.19.50:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2019.01.24-23.19.50:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2019.01.24-23.19.50:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2019.01.24-23.19.50:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2019.01.24-23.19.50:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2019.01.24-23.19.50:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2019.01.24-23.19.50:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2019.01.24-23.19.50:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2019.01.24-23.19.50:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2019.01.24-23.19.50:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2019.01.24-23.19.50:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2019.01.24-23.19.51:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2019.01.24-23.19.51:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2019.01.24-23.19.51:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2019.01.24-23.19.51:194][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2019.01.24-23.19.51:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2019.01.24-23.19.51:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2019.01.24-23.19.51:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2019.01.24-23.19.51:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2019.01.24-23.19.51:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2019.01.24-23.19.51:235][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2019.01.24-23.19.51:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2019.01.24-23.19.51:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2019.01.24-23.19.51:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2019.01.24-23.19.51:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2019.01.24-23.19.51:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2019.01.24-23.19.51:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2019.01.24-23.19.51:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2019.01.24-23.19.51:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2019.01.24-23.19.51:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2019.01.24-23.19.51:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2019.01.24-23.19.51:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2019.01.24-23.19.51:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2019.01.24-23.19.51:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2019.01.24-23.19.51:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2019.01.24-23.19.51:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2019.01.24-23.19.51:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2019.01.24-23.19.51:436][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2019.01.24-23.19.51:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2019.01.24-23.19.51:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2019.01.24-23.19.51:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2019.01.24-23.19.51:466][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2019.01.24-23.19.51:472][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Door_M.uasset"
+[2019.01.24-23.19.51:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Door_N.uasset"
+[2019.01.24-23.19.51:484][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2019.01.24-23.19.51:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2019.01.24-23.19.51:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2019.01.24-23.19.51:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2019.01.24-23.19.51:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2019.01.24-23.19.51:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2019.01.24-23.19.51:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2019.01.24-23.19.51:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2019.01.24-23.19.51:562][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2019.01.24-23.19.51:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2019.01.24-23.19.51:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2019.01.24-23.19.51:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2019.01.24-23.19.51:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2019.01.24-23.19.51:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2019.01.24-23.19.51:626][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2019.01.24-23.19.51:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2019.01.24-23.19.51:647][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2019.01.24-23.19.51:657][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2019.01.24-23.19.51:667][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2019.01.24-23.19.51:676][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2019.01.24-23.19.51:687][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2019.01.24-23.19.51:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2019.01.24-23.19.51:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2019.01.24-23.19.51:713][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2019.01.24-23.19.51:723][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2019.01.24-23.19.51:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2019.01.24-23.19.51:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2019.01.24-23.19.51:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2019.01.24-23.19.51:760][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2019.01.24-23.19.51:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2019.01.24-23.19.51:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2019.01.24-23.19.51:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2019.01.24-23.19.51:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2019.01.24-23.19.51:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2019.01.24-23.19.51:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2019.01.24-23.19.51:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2019.01.24-23.19.51:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2019.01.24-23.19.51:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2019.01.24-23.19.51:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2019.01.24-23.19.51:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2019.01.24-23.19.51:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2019.01.24-23.19.51:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2019.01.24-23.19.51:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2019.01.24-23.19.51:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2019.01.24-23.19.51:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2019.01.24-23.19.51:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2019.01.24-23.19.51:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2019.01.24-23.19.51:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2019.01.24-23.19.51:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2019.01.24-23.19.51:966][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2019.01.24-23.19.51:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2019.01.24-23.19.51:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Water_M.uasset"
+[2019.01.24-23.19.51:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Water_N.uasset"
+[2019.01.24-23.19.51:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2019.01.24-23.19.52:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2019.01.24-23.19.52:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2019.01.24-23.19.52:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2019.01.24-23.19.52:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2019.01.24-23.19.52:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2019.01.24-23.19.52:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2019.01.24-23.19.52:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2019.01.24-23.19.52:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2019.01.24-23.19.52:125][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2019.01.24-23.19.52:159][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2019.01.24-23.19.52:175][  0]LogSavePackage: Moving 'D:/Documents/GitHub/MazeGame/MazeGame/Saved/Floor_400x4007E88550144622E371FD1B197C3DB2989.tmp' to 'D:/Documents/GitHub/MazeGame/MazeGame/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2019.01.24-23.19.52:178][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2019.01.24-23.19.52:181][  0]Cmd: MAP LOAD FILE="D:/Documents/GitHub/MazeGame/MazeGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.24-23.19.52:181][  0]LightingResults: New page: Lighting Build
+[2019.01.24-23.19.52:184][  0]MapCheck: New page: Map Check
+[2019.01.24-23.19.52:184][  0]LightingResults: New page: Lighting Build
+[2019.01.24-23.19.52:568][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.01.24-23.19.52:583][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.24-23.19.52:612][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.24-23.19.52:612][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.084ms to complete.
+[2019.01.24-23.19.52:612][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.431
+[2019.01.24-23.19.52:705][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-23.19.52:711][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-23.19.52:716][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-23.19.52:723][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-23.19.52:728][  0]LogCollectionManager: Loaded 0 collections in 0.001321 seconds
+[2019.01.24-23.19.52:767][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/GitHub/MazeGame/MazeGame/Saved/Collections/' took 0.01s
+[2019.01.24-23.19.52:767][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/GitHub/MazeGame/MazeGame/Content/Developers/kyles/Collections/' took 0.01s
+[2019.01.24-23.19.52:767][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/GitHub/MazeGame/MazeGame/Content/Collections/' took 0.01s
+[2019.01.24-23.19.52:767][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.01.24-23.19.52:779][  0]LogContentBrowser: Native class hierarchy populated in 0.0116 seconds. Added 2651 classes and 620 folders.
+[2019.01.24-23.19.52:787][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.01.24-23.19.52:789][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-23.19.52:789][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-23.19.52:790][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-23.19.52:790][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-23.19.52:791][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-23.19.52:792][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-23.19.52:792][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-23.19.52:793][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-23.19.52:793][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-23.19.52:794][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-23.19.52:794][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-23.19.52:795][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-23.19.52:795][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-23.19.52:796][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-23.19.52:797][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-23.19.52:798][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-23.19.52:798][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-23.19.52:799][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-23.19.52:800][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-23.19.52:800][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-23.19.52:801][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-23.19.52:801][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-23.19.52:802][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-23.19.52:803][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-23.19.52:803][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-23.19.52:804][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-23.19.52:834][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.24-23.19.52:838][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.01.24-23.19.52:851][  0]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.24-23.19.52:852][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.24-23.19.52:858][  0]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.24-23.19.52:910][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.01.24-23.19.52:952][  0]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.24-23.19.53:053][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.01.24-23.19.53:053][  0]LogLoad: (Engine Initialization) Total time: 10.26 seconds
+[2019.01.24-23.19.53:053][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.24-23.19.53:072][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.24-23.19.54:066][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.24-23.19.54:198][  6]LogAssetRegistry: Asset discovery search completed in 8.0229 seconds
+[2019.01.24-23.19.54:200][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.24-23.19.54:200][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000041 seconds (updated 0 objects)
+[2019.01.24-23.20.04:936][584]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.24-23.20.40:444][193]LogSlate: Window 'Source Control Login' being destroyed
+[2019.01.24-23.24.41:275][499]LogPlayLevel: Launcher Device ID: WindowsNoEditor@DESKTOP-R3E79K2
+[2019.01.24-23.24.41:288][499]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.24-23.24.41:288][499]LogCook: Display: Creating asset registry
+[2019.01.24-23.24.41:291][499]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.24-23.24.41:928][499]LogCook: Display: Discovering localized assets
+[2019.01.24-23.24.41:958][499]LogCook: Display: Cooked content cleared for platform AllDesktop
+[2019.01.24-23.24.41:958][499]LogCook: Display: Unable to read previous cook inisettings for platform AllDesktop invalidating cook
+[2019.01.24-23.24.42:006][499]LogCook: Display: Cooked content cleared for platform MacClient
+[2019.01.24-23.24.42:006][499]LogCook: Display: Unable to read previous cook inisettings for platform MacClient invalidating cook
+[2019.01.24-23.24.42:050][499]LogCook: Display: Cooked content cleared for platform MacNoEditor
+[2019.01.24-23.24.42:051][499]LogCook: Display: Unable to read previous cook inisettings for platform MacNoEditor invalidating cook
+[2019.01.24-23.24.42:100][499]LogCook: Display: Cooked content cleared for platform MacServer
+[2019.01.24-23.24.42:100][499]LogCook: Display: Unable to read previous cook inisettings for platform MacServer invalidating cook
+[2019.01.24-23.24.42:144][499]LogCook: Display: Cooked content cleared for platform Mac
+[2019.01.24-23.24.42:144][499]LogCook: Display: Unable to read previous cook inisettings for platform Mac invalidating cook
+[2019.01.24-23.24.42:186][499]LogCook: Display: Cooked content cleared for platform WindowsClient
+[2019.01.24-23.24.42:187][499]LogCook: Display: Unable to read previous cook inisettings for platform WindowsClient invalidating cook
+[2019.01.24-23.24.42:235][499]LogCook: Display: Cooked content cleared for platform WindowsNoEditor
+[2019.01.24-23.24.42:236][499]LogCook: Display: Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+[2019.01.24-23.24.42:282][499]LogCook: Display: Cooked content cleared for platform WindowsServer
+[2019.01.24-23.24.42:283][499]LogCook: Display: Unable to read previous cook inisettings for platform WindowsServer invalidating cook
+[2019.01.24-23.24.42:335][499]LogCook: Display: Cooked content cleared for platform Windows
+[2019.01.24-23.24.42:335][499]LogCook: Display: Unable to read previous cook inisettings for platform Windows invalidating cook
+[2019.01.24-23.24.42:373][499]LogCook: Display: Cooked content cleared for platform Android
+[2019.01.24-23.24.42:373][499]LogCook: Display: Unable to read previous cook inisettings for platform Android invalidating cook
+[2019.01.24-23.24.42:411][499]LogCook: Display: Cooked content cleared for platform Android_ASTC
+[2019.01.24-23.24.42:411][499]LogCook: Display: Unable to read previous cook inisettings for platform Android_ASTC invalidating cook
+[2019.01.24-23.24.42:452][499]LogCook: Display: Cooked content cleared for platform Android_ATC
+[2019.01.24-23.24.42:453][499]LogCook: Display: Unable to read previous cook inisettings for platform Android_ATC invalidating cook
+[2019.01.24-23.24.42:495][499]LogCook: Display: Cooked content cleared for platform Android_DXT
+[2019.01.24-23.24.42:495][499]LogCook: Display: Unable to read previous cook inisettings for platform Android_DXT invalidating cook
+[2019.01.24-23.24.42:536][499]LogCook: Display: Cooked content cleared for platform Android_ETC1
+[2019.01.24-23.24.42:536][499]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC1 invalidating cook
+[2019.01.24-23.24.42:580][499]LogCook: Display: Cooked content cleared for platform Android_ETC1a
+[2019.01.24-23.24.42:580][499]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC1a invalidating cook
+[2019.01.24-23.24.42:621][499]LogCook: Display: Cooked content cleared for platform Android_ETC2
+[2019.01.24-23.24.42:621][499]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC2 invalidating cook
+[2019.01.24-23.24.42:672][499]LogCook: Display: Cooked content cleared for platform Android_PVRTC
+[2019.01.24-23.24.42:673][499]LogCook: Display: Unable to read previous cook inisettings for platform Android_PVRTC invalidating cook
+[2019.01.24-23.24.42:725][499]LogCook: Display: Cooked content cleared for platform AndroidClient
+[2019.01.24-23.24.42:725][499]LogCook: Display: Unable to read previous cook inisettings for platform AndroidClient invalidating cook
+[2019.01.24-23.24.42:769][499]LogCook: Display: Cooked content cleared for platform Android_ASTCClient
+[2019.01.24-23.24.42:769][499]LogCook: Display: Unable to read previous cook inisettings for platform Android_ASTCClient invalidating cook
+[2019.01.24-23.24.42:811][499]LogCook: Display: Cooked content cleared for platform Android_ATCClient
+[2019.01.24-23.24.42:812][499]LogCook: Display: Unable to read previous cook inisettings for platform Android_ATCClient invalidating cook
+[2019.01.24-23.24.42:853][499]LogCook: Display: Cooked content cleared for platform Android_DXTClient
+[2019.01.24-23.24.42:853][499]LogCook: Display: Unable to read previous cook inisettings for platform Android_DXTClient invalidating cook
+[2019.01.24-23.24.42:894][499]LogCook: Display: Cooked content cleared for platform Android_ETC1Client
+[2019.01.24-23.24.42:894][499]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC1Client invalidating cook
+[2019.01.24-23.24.42:935][499]LogCook: Display: Cooked content cleared for platform Android_ETC1aClient
+[2019.01.24-23.24.42:935][499]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC1aClient invalidating cook
+[2019.01.24-23.24.42:976][499]LogCook: Display: Cooked content cleared for platform Android_ETC2Client
+[2019.01.24-23.24.42:977][499]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC2Client invalidating cook
+[2019.01.24-23.24.43:025][499]LogCook: Display: Cooked content cleared for platform Android_PVRTCClient
+[2019.01.24-23.24.43:025][499]LogCook: Display: Unable to read previous cook inisettings for platform Android_PVRTCClient invalidating cook
+[2019.01.24-23.24.43:071][499]LogCook: Display: Cooked content cleared for platform Android_Multi
+[2019.01.24-23.24.43:072][499]LogCook: Display: Unable to read previous cook inisettings for platform Android_Multi invalidating cook
+[2019.01.24-23.24.43:116][499]LogCook: Display: Cooked content cleared for platform Android_MultiClient
+[2019.01.24-23.24.43:116][499]LogCook: Display: Unable to read previous cook inisettings for platform Android_MultiClient invalidating cook
+[2019.01.24-23.24.43:160][499]LogCook: Display: Cooked content cleared for platform HTML5
+[2019.01.24-23.24.43:161][499]LogCook: Display: Unable to read previous cook inisettings for platform HTML5 invalidating cook
+[2019.01.24-23.24.43:200][499]LogCook: Display: Cooked content cleared for platform IOSClient
+[2019.01.24-23.24.43:200][499]LogCook: Display: Unable to read previous cook inisettings for platform IOSClient invalidating cook
+[2019.01.24-23.24.43:243][499]LogCook: Display: Cooked content cleared for platform IOS
+[2019.01.24-23.24.43:244][499]LogCook: Display: Unable to read previous cook inisettings for platform IOS invalidating cook
+[2019.01.24-23.24.43:281][499]LogCook: Display: Cooked content cleared for platform TVOSClient
+[2019.01.24-23.24.43:281][499]LogCook: Display: Unable to read previous cook inisettings for platform TVOSClient invalidating cook
+[2019.01.24-23.24.43:324][499]LogCook: Display: Cooked content cleared for platform TVOS
+[2019.01.24-23.24.43:324][499]LogCook: Display: Unable to read previous cook inisettings for platform TVOS invalidating cook
+[2019.01.24-23.24.43:367][499]LogCook: Display: Cooked content cleared for platform LinuxClient
+[2019.01.24-23.24.43:368][499]LogCook: Display: Unable to read previous cook inisettings for platform LinuxClient invalidating cook
+[2019.01.24-23.24.43:417][499]LogCook: Display: Cooked content cleared for platform LinuxNoEditor
+[2019.01.24-23.24.43:417][499]LogCook: Display: Unable to read previous cook inisettings for platform LinuxNoEditor invalidating cook
+[2019.01.24-23.24.43:463][499]LogCook: Display: Cooked content cleared for platform LinuxServer
+[2019.01.24-23.24.43:463][499]LogCook: Display: Unable to read previous cook inisettings for platform LinuxServer invalidating cook
+[2019.01.24-23.24.43:511][499]LogCook: Display: Cooked content cleared for platform Linux
+[2019.01.24-23.24.43:511][499]LogCook: Display: Unable to read previous cook inisettings for platform Linux invalidating cook
+[2019.01.24-23.24.43:557][499]LogCook: Display: Cooked content cleared for platform Lumin
+[2019.01.24-23.24.43:558][499]LogCook: Display: Unable to read previous cook inisettings for platform Lumin invalidating cook
+[2019.01.24-23.24.43:597][499]LogCook: Display: Cooked content cleared for platform LuminClient
+[2019.01.24-23.24.43:598][499]LogCook: Display: Unable to read previous cook inisettings for platform LuminClient invalidating cook
+[2019.01.24-23.24.43:643][499]LogCook: Display: Sandbox cleanup took 1.686 seconds for platforms AllDesktop MacClient MacNoEditor MacServer Mac WindowsClient WindowsNoEditor WindowsServer Windows Android Android_ASTC Android_ATC Android_DXT Android_ETC1 Android_ETC1a Android_ETC2 Android_PVRTC AndroidClient Android_ASTCClient Android_ATCClient Android_DXTClient Android_ETC1Client Android_ETC1aClient Android_ETC2Client Android_PVRTCClient Android_Multi Android_MultiClient HTML5 IOSClient IOS TVOSClient TVOS LinuxClient LinuxNoEditor LinuxServer Linux Lumin LuminClient  iterative false
+[2019.01.24-23.24.44:317][499]LogMaterial: Verifying Global Shaders for PCD3D_SM4
+[2019.01.24-23.24.44:598][500]LogCook: Display: Cooked packages 0 Packages Remain 378 Total 378
+[2019.01.24-23.24.44:721][501]LogAIModule: Creating AISystem for world Entry
+[2019.01.24-23.24.44:818][502]LogCook: Display: Cooked packages 0 Packages Remain 379 Total 379
+[2019.01.24-23.24.45:787][510]LogContentBrowser: Native class hierarchy updated for 'BlueprintNativeCodeGen' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.01.24-23.24.45:906][511]LogCook: Display: Cooked packages 9 Packages Remain 378 Total 387
+[2019.01.24-23.24.46:052][512]LogCook: Display: Cooked packages 15 Packages Remain 377 Total 392
+[2019.01.24-23.24.46:161][513]LogCook: Display: Cooked packages 16 Packages Remain 376 Total 392
+[2019.01.24-23.24.46:438][514]LogCook: Display: Cooked packages 66 Packages Remain 375 Total 441
+[2019.01.24-23.24.46:709][515]LogCook: Display: Cooked packages 67 Packages Remain 374 Total 441
+[2019.01.24-23.24.46:883][516]LogCook: Display: Cooked packages 79 Packages Remain 373 Total 452
+[2019.01.24-23.24.47:045][517]LogCook: Display: Cooked packages 94 Packages Remain 372 Total 466
+[2019.01.24-23.24.47:256][518]LogCook: Display: Cooked packages 118 Packages Remain 371 Total 489
+[2019.01.24-23.24.47:395][519]LogCook: Display: Cooked packages 126 Packages Remain 370 Total 496
+[2019.01.24-23.24.47:563][520]LogCook: Display: Cooked packages 143 Packages Remain 369 Total 512
+[2019.01.24-23.24.47:705][521]LogCook: Display: Cooked packages 154 Packages Remain 368 Total 522
+[2019.01.24-23.24.47:902][522]LogCook: Display: Cooked packages 167 Packages Remain 367 Total 534
+[2019.01.24-23.24.48:091][523]LogCook: Display: Cooked packages 190 Packages Remain 366 Total 556
+[2019.01.24-23.24.48:265][524]LogCook: Display: Cooked packages 207 Packages Remain 365 Total 572
+[2019.01.24-23.24.48:628][527]LogCook: Display: Cooked packages 209 Packages Remain 364 Total 573
+[2019.01.24-23.24.48:812][528]LogCook: Display: Cooked packages 214 Packages Remain 363 Total 577
+[2019.01.24-23.24.48:946][529]LogCook: Display: Cooked packages 216 Packages Remain 362 Total 578
+[2019.01.24-23.24.49:150][530]LogCook: Display: Cooked packages 242 Packages Remain 361 Total 603
+[2019.01.24-23.24.49:441][532]LogCook: Display: Cooked packages 244 Packages Remain 360 Total 604
+[2019.01.24-23.24.49:631][533]LogCook: Display: Cooked packages 249 Packages Remain 359 Total 608
+[2019.01.24-23.24.49:780][534]LogCook: Display: Cooked packages 260 Packages Remain 358 Total 618
+[2019.01.24-23.24.49:978][535]LogCook: Display: Cooked packages 285 Packages Remain 357 Total 642
+[2019.01.24-23.24.50:321][536]LogCook: Display: Cooked packages 309 Packages Remain 356 Total 665
+[2019.01.24-23.24.50:595][538]LogCook: Display: Cooked packages 313 Packages Remain 355 Total 668
+[2019.01.24-23.24.50:750][539]LogCook: Display: Cooked packages 326 Packages Remain 354 Total 680
+[2019.01.24-23.24.51:127][540]LogCook: Display: Cooked packages 337 Packages Remain 353 Total 690
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 352 Total 703
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 351 Total 702
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 350 Total 701
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 349 Total 700
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 348 Total 699
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 347 Total 698
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 346 Total 697
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 345 Total 696
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 344 Total 695
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 343 Total 694
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 342 Total 693
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 341 Total 692
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 340 Total 691
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 339 Total 690
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 338 Total 689
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 337 Total 688
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 336 Total 687
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 335 Total 686
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 334 Total 685
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 333 Total 684
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 332 Total 683
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 331 Total 682
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 330 Total 681
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 329 Total 680
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 328 Total 679
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 327 Total 678
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 326 Total 677
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 325 Total 676
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 324 Total 675
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 323 Total 674
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 322 Total 673
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 321 Total 672
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 320 Total 671
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 319 Total 670
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 318 Total 669
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 317 Total 668
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 316 Total 667
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 315 Total 666
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 314 Total 665
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 313 Total 664
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 312 Total 663
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 311 Total 662
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 310 Total 661
+[2019.01.24-23.24.51:281][541]LogCook: Display: Cooked packages 351 Packages Remain 309 Total 660
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 308 Total 659
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 307 Total 658
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 306 Total 657
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 305 Total 656
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 304 Total 655
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 303 Total 654
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 302 Total 653
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 301 Total 652
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 300 Total 651
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 299 Total 650
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 298 Total 649
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 297 Total 648
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 296 Total 647
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 295 Total 646
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 294 Total 645
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 293 Total 644
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 292 Total 643
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 291 Total 642
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 290 Total 641
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 289 Total 640
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 288 Total 639
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 287 Total 638
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 286 Total 637
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 285 Total 636
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 284 Total 635
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 283 Total 634
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 282 Total 633
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 281 Total 632
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 280 Total 631
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 279 Total 630
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 278 Total 629
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 277 Total 628
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 276 Total 627
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 275 Total 626
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 274 Total 625
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 273 Total 624
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 272 Total 623
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 271 Total 622
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 270 Total 621
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 269 Total 620
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 268 Total 619
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 267 Total 618
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 266 Total 617
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 265 Total 616
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 264 Total 615
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 263 Total 614
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 262 Total 613
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 261 Total 612
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 260 Total 611
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 259 Total 610
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 258 Total 609
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 257 Total 608
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 256 Total 607
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 255 Total 606
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 254 Total 605
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 253 Total 604
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 252 Total 603
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 251 Total 602
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 250 Total 601
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 249 Total 600
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 248 Total 599
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 247 Total 598
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 246 Total 597
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 245 Total 596
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 244 Total 595
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 243 Total 594
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 242 Total 593
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 241 Total 592
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 240 Total 591
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 239 Total 590
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 238 Total 589
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 237 Total 588
+[2019.01.24-23.24.51:282][541]LogCook: Display: Cooked packages 351 Packages Remain 236 Total 587
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 235 Total 586
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 234 Total 585
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 233 Total 584
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 232 Total 583
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 231 Total 582
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 230 Total 581
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 229 Total 580
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 228 Total 579
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 227 Total 578
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 226 Total 577
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 225 Total 576
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 224 Total 575
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 223 Total 574
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 222 Total 573
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 221 Total 572
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 220 Total 571
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 219 Total 570
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 218 Total 569
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 217 Total 568
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 216 Total 567
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 215 Total 566
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 214 Total 565
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 213 Total 564
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 212 Total 563
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 211 Total 562
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 210 Total 561
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 209 Total 560
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 208 Total 559
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 207 Total 558
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 206 Total 557
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 205 Total 556
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 204 Total 555
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 203 Total 554
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 202 Total 553
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 201 Total 552
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 200 Total 551
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 199 Total 550
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 198 Total 549
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 197 Total 548
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 196 Total 547
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 195 Total 546
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 194 Total 545
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 193 Total 544
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 192 Total 543
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 191 Total 542
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 190 Total 541
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 189 Total 540
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 188 Total 539
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 187 Total 538
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 186 Total 537
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 185 Total 536
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 184 Total 535
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 183 Total 534
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 182 Total 533
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 181 Total 532
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 180 Total 531
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 179 Total 530
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 178 Total 529
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 177 Total 528
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 176 Total 527
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 175 Total 526
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 174 Total 525
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 173 Total 524
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 172 Total 523
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 171 Total 522
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 170 Total 521
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 169 Total 520
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 168 Total 519
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 167 Total 518
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 166 Total 517
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 165 Total 516
+[2019.01.24-23.24.51:283][541]LogCook: Display: Cooked packages 351 Packages Remain 164 Total 515
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 163 Total 514
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 162 Total 513
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 161 Total 512
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 160 Total 511
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 159 Total 510
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 158 Total 509
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 157 Total 508
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 156 Total 507
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 155 Total 506
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 154 Total 505
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 153 Total 504
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 152 Total 503
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 151 Total 502
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 150 Total 501
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 149 Total 500
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 148 Total 499
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 147 Total 498
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 146 Total 497
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 145 Total 496
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 144 Total 495
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 143 Total 494
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 142 Total 493
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 141 Total 492
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 140 Total 491
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 139 Total 490
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 138 Total 489
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 137 Total 488
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 136 Total 487
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 135 Total 486
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 134 Total 485
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 133 Total 484
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 132 Total 483
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 131 Total 482
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 130 Total 481
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 129 Total 480
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 128 Total 479
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 127 Total 478
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 126 Total 477
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 125 Total 476
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 124 Total 475
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 123 Total 474
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 122 Total 473
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 121 Total 472
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 120 Total 471
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 119 Total 470
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 118 Total 469
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 117 Total 468
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 116 Total 467
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 115 Total 466
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 114 Total 465
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 113 Total 464
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 112 Total 463
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 111 Total 462
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 110 Total 461
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 109 Total 460
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 108 Total 459
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 107 Total 458
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 106 Total 457
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 105 Total 456
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 104 Total 455
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 103 Total 454
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 102 Total 453
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 101 Total 452
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 100 Total 451
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 99 Total 450
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 98 Total 449
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 97 Total 448
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 96 Total 447
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 95 Total 446
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 94 Total 445
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 93 Total 444
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 92 Total 443
+[2019.01.24-23.24.51:284][541]LogCook: Display: Cooked packages 351 Packages Remain 91 Total 442
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 90 Total 441
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 89 Total 440
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 88 Total 439
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 87 Total 438
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 86 Total 437
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 85 Total 436
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 84 Total 435
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 83 Total 434
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 82 Total 433
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 81 Total 432
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 80 Total 431
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 79 Total 430
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 78 Total 429
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 77 Total 428
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 76 Total 427
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 75 Total 426
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 74 Total 425
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 73 Total 424
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 72 Total 423
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 71 Total 422
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 70 Total 421
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 69 Total 420
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 68 Total 419
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 67 Total 418
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 66 Total 417
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 65 Total 416
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 64 Total 415
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 63 Total 414
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 62 Total 413
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 61 Total 412
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 60 Total 411
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 59 Total 410
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 58 Total 409
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 57 Total 408
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 56 Total 407
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 55 Total 406
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 54 Total 405
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 53 Total 404
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 52 Total 403
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 51 Total 402
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 50 Total 401
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 49 Total 400
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 48 Total 399
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 47 Total 398
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 46 Total 397
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 45 Total 396
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 44 Total 395
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 43 Total 394
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 42 Total 393
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 41 Total 392
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 40 Total 391
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 39 Total 390
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 38 Total 389
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 37 Total 388
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 36 Total 387
+[2019.01.24-23.24.51:285][541]LogCook: Display: Cooked packages 351 Packages Remain 35 Total 386
+[2019.01.24-23.24.51:353][541]LogCook: Display: Cooked packages 363 Packages Remain 34 Total 397
+[2019.01.24-23.24.51:353][541]LogCook: Display: Cooked packages 363 Packages Remain 33 Total 396
+[2019.01.24-23.24.51:353][541]LogCook: Display: Cooked packages 363 Packages Remain 32 Total 395
+[2019.01.24-23.24.51:445][542]LogCook: Display: Cooked packages 365 Packages Remain 31 Total 396
+[2019.01.24-23.24.51:450][542]LogCook: Display: Cooked packages 366 Packages Remain 30 Total 396
+[2019.01.24-23.24.51:456][542]LogCook: Display: Cooked packages 367 Packages Remain 29 Total 396
+[2019.01.24-23.24.51:461][542]LogCook: Display: Cooked packages 368 Packages Remain 28 Total 396
+[2019.01.24-23.24.51:467][542]LogCook: Display: Cooked packages 369 Packages Remain 27 Total 396
+[2019.01.24-23.24.51:473][542]LogCook: Display: Cooked packages 370 Packages Remain 26 Total 396
+[2019.01.24-23.24.51:478][542]LogCook: Display: Cooked packages 371 Packages Remain 25 Total 396
+[2019.01.24-23.24.51:483][542]LogCook: Display: Cooked packages 372 Packages Remain 24 Total 396
+[2019.01.24-23.24.51:487][542]LogCook: Display: Cooked packages 373 Packages Remain 23 Total 396
+[2019.01.24-23.24.51:492][542]LogCook: Display: Cooked packages 374 Packages Remain 22 Total 396
+[2019.01.24-23.24.51:496][542]LogCook: Display: Cooked packages 375 Packages Remain 21 Total 396
+[2019.01.24-23.24.51:501][542]LogCook: Display: Cooked packages 376 Packages Remain 20 Total 396
+[2019.01.24-23.24.51:505][542]LogCook: Display: Cooked packages 377 Packages Remain 19 Total 396
+[2019.01.24-23.24.51:513][542]LogCook: Display: Cooked packages 378 Packages Remain 18 Total 396
+[2019.01.24-23.24.51:518][542]LogCook: Display: Cooked packages 379 Packages Remain 17 Total 396
+[2019.01.24-23.24.51:518][542]LogCook: Display: Cooked packages 379 Packages Remain 16 Total 395
+[2019.01.24-23.24.51:518][542]LogCook: Display: Cooked packages 379 Packages Remain 15 Total 394
+[2019.01.24-23.24.51:518][542]LogCook: Display: Cooked packages 379 Packages Remain 14 Total 393
+[2019.01.24-23.24.51:518][542]LogCook: Display: Cooked packages 379 Packages Remain 13 Total 392
+[2019.01.24-23.24.51:518][542]LogCook: Display: Cooked packages 379 Packages Remain 12 Total 391
+[2019.01.24-23.24.51:518][542]LogCook: Display: Cooked packages 379 Packages Remain 11 Total 390
+[2019.01.24-23.24.51:518][542]LogCook: Display: Cooked packages 379 Packages Remain 10 Total 389
+[2019.01.24-23.24.51:518][542]LogCook: Display: Cooked packages 379 Packages Remain 9 Total 388
+[2019.01.24-23.24.51:518][542]LogCook: Display: Cooked packages 379 Packages Remain 8 Total 387
+[2019.01.24-23.24.51:518][542]LogCook: Display: Cooked packages 379 Packages Remain 7 Total 386
+[2019.01.24-23.24.51:518][542]LogCook: Display: Cooked packages 379 Packages Remain 6 Total 385
+[2019.01.24-23.24.51:519][542]LogCook: Display: Cooked packages 379 Packages Remain 5 Total 384
+[2019.01.24-23.24.51:519][542]LogCook: Display: Cooked packages 379 Packages Remain 4 Total 383
+[2019.01.24-23.24.51:519][542]LogCook: Display: Cooked packages 379 Packages Remain 3 Total 382
+[2019.01.24-23.24.51:519][542]LogCook: Display: Cooked packages 379 Packages Remain 2 Total 381
+[2019.01.24-23.24.51:519][542]LogCook: Display: Cooked packages 379 Packages Remain 1 Total 380
+[2019.01.24-23.24.51:537][542]LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2019.01.24-23.24.51:537][542]LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2019.01.24-23.24.51:537][542]LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2019.01.24-23.24.51:601][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.51:601][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.51:601][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.51:653][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.51:653][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.51:676][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.51:676][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.51:676][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.51:769][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.51:769][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.51:786][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.51:786][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.51:786][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.51:837][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.51:837][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.51:854][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.51:854][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.51:854][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.51:906][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.51:906][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.51:921][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.51:921][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.51:921][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.51:962][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.51:962][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.51:979][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.51:979][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.51:979][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.52:025][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.52:025][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.52:041][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.52:041][542]LogAssetRegistryGenerator: Chunk: 0, Started with 377 packages, Final after dependency resolve: 377
+[2019.01.24-23.24.52:041][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.52:041][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.52:062][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 377, size is 152.25kb
+[2019.01.24-23.24.52:062][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.52:124][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.52:124][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.52:124][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.52:164][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.52:165][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.52:181][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.52:181][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.52:181][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.52:229][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.52:229][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.52:249][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.52:249][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.52:249][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.52:296][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.52:296][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.52:316][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.52:316][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.52:316][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.52:367][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.52:367][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.52:386][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.52:386][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.52:386][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.52:427][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.52:427][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.52:447][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.52:447][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.52:447][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.52:496][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.52:496][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.52:516][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.52:516][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.52:516][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.52:573][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.52:573][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.52:588][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.52:589][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.52:589][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.52:631][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.52:631][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.52:644][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.52:644][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.52:644][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.52:679][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.52:679][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.52:695][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.52:695][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.52:695][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.52:736][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.52:736][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.52:749][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.52:749][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.52:749][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.52:792][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.52:792][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.52:808][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.52:808][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.52:808][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.52:856][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.52:856][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.52:873][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.52:873][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.52:873][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.52:920][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.52:920][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.52:942][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.52:942][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.52:942][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.52:987][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.52:987][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.53:004][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.53:004][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.53:004][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.53:049][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.53:049][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.53:062][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.53:063][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.53:063][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.53:111][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.53:111][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.53:145][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.53:145][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.53:145][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.53:191][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.53:191][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.53:207][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.53:207][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.53:207][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.53:248][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.53:248][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.53:262][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.53:262][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.53:262][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.53:300][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.53:300][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.53:320][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.53:320][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.53:320][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.53:359][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.53:359][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.53:373][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.53:374][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.53:374][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.53:414][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.53:414][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.53:427][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.53:427][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.53:427][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.53:464][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.53:464][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.53:475][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.53:475][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.53:475][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.53:529][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.53:529][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.53:541][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.53:541][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.53:541][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.53:578][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.53:578][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.53:590][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.53:590][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.53:590][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.53:635][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.53:635][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.53:650][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.53:650][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.53:650][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.53:692][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.53:692][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.53:709][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.53:709][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.53:709][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.53:755][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.53:755][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.53:773][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.53:773][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.53:773][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.53:816][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.53:816][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.53:832][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.53:832][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.53:832][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.53:882][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.53:882][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.53:899][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.53:899][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.53:899][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.53:954][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.53:954][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.53:969][542]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2019.01.24-23.24.53:969][542]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2019.01.24-23.24.53:969][542]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.01.24-23.24.54:022][542]LogAssetRegistryGenerator: Display: Generated asset registry num assets 2134, size is 865.95kb
+[2019.01.24-23.24.54:022][542]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.01.24-23.24.54:027][542]LogCook: Display: Cook by the book total time in tick 5.413942s total time 12.738531
+[2019.01.24-23.24.54:027][542]LogCook: Display: Peak Used virtual 1702MB Peak Used physical 1174MB
+[2019.01.24-23.24.54:027][542]LogCook: Display: Hierarchy Timer Information:
+[2019.01.24-23.24.54:027][542]LogCook: Display:   Root: 0.000s (0)
+[2019.01.24-23.24.54:027][542]LogCook: Display:     StartCookByTheBookTime: 3.274s (1)
+[2019.01.24-23.24.54:027][542]LogCook: Display:       GenerateAssetRegistryTime: 0.000s (1)
+[2019.01.24-23.24.54:027][542]LogCook: Display:       CleanSandboxTime: 1.686s (1)
+[2019.01.24-23.24.54:027][542]LogCook: Display:         ProcessingAccessedStrings: 0.439s (38)
+[2019.01.24-23.24.54:027][542]LogCook: Display:       CollectFilesToCook: 0.235s (1)
+[2019.01.24-23.24.54:027][542]LogCook: Display:         CookModificationDelegate: 0.000s (1)
+[2019.01.24-23.24.54:027][542]LogCook: Display:         SearchForPackageOnDisk: 0.000s (1)
+[2019.01.24-23.24.54:027][542]LogCook: Display:         GeneratePackageNames: 0.000s (1)
+[2019.01.24-23.24.54:027][542]LogCook: Display:       GenerateLongPackageName: 0.001s (1)
+[2019.01.24-23.24.54:027][542]LogCook: Display:     TickCookOnTheSide: 5.407s (58)
+[2019.01.24-23.24.54:027][542]LogCook: Display:       LoadPackage: 0.035s (18)
+[2019.01.24-23.24.54:027][542]LogCook: Display:       CallBeginCacheForCookedPlatformData: 0.004s (58)
+[2019.01.24-23.24.54:027][542]LogCook: Display:       PostLoadPackageFixup: 0.000s (58)
+[2019.01.24-23.24.54:027][542]LogCook: Display:       SavingPackages: 3.013s (58)
+[2019.01.24-23.24.54:027][542]LogCook: Display:         EnqueueUnsavedPackages: 0.002s (42)
+[2019.01.24-23.24.54:027][542]LogCook: Display:         PrecachePlatformDataForNextPackage: 0.000s (363)
+[2019.01.24-23.24.54:027][542]LogCook: Display:         PrecachePlatformDataForNextNextPackage: 0.104s (361)
+[2019.01.24-23.24.54:027][542]LogCook: Display:         SaveCookedPackage: 2.895s (379)
+[2019.01.24-23.24.54:027][542]LogCook: Display:           LoadPackage: 0.001s (379)
+[2019.01.24-23.24.54:027][542]LogCook: Display:           GEditorSavePackage: 2.876s (379)
+[2019.01.24-23.24.54:027][542]LogCook: Display:             ConvertingBlueprints: 0.011s (379)
+[2019.01.24-23.24.54:027][542]LogCook: Display:             VerifyCanCookPackage: 0.001s (377)
+[2019.01.24-23.24.54:027][542]LogCook: Display:     GeneratingBlueprintAssets: 0.002s (1)
+[2019.01.24-23.24.54:027][542]LogCook: Display:     SavingCurrentIniSettings: 0.048s (1)
+[2019.01.24-23.24.54:027][542]LogCook: Display:       ProcessingAccessedStrings: 0.013s (1)
+[2019.01.24-23.24.54:027][542]LogCook: Display:     SavingAssetRegistry: 2.441s (1)
+[2019.01.24-23.24.54:027][542]LogCook: Display:       BuildChunkManifest: 0.444s (38)
+[2019.01.24-23.24.54:027][542]LogCook: Display:       SaveManifests: 0.003s (38)
+[2019.01.24-23.24.54:027][542]LogCook: Display:       SaveRealAssetRegistry: 1.750s (38)
+[2019.01.24-23.24.54:027][542]LogCook: Display:       WriteCookerOpenOrder: 0.243s (38)
+[2019.01.24-23.24.54:122][547]LogPlayLevel: Completed Launch On Stage: Cooking in the editor, Time: 8.555800
+[2019.01.24-23.24.54:726][566]LogPlayLevel: Running AutomationTool...
+[2019.01.24-23.24.54:953][576]LogPlayLevel: Parsing command line: -ScriptsForProject=D:/Documents/GitHub/MazeGame/MazeGame/MazeGame.uproject BuildCookRun -project=D:/Documents/GitHub/MazeGame/MazeGame/MazeGame.uproject -noP4 -clientconfig=Development -serverconfig=Development -nocompile -nocompileeditor -installed -ue4exe=UE4Editor-Cmd.exe -utf8output -platform=Win64 -targetplatform=Win64 -ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled -map=/Game/FirstPersonBP/Maps/FirstPersonExampleMap -skipcook -CookInEditor -iterativecooking -compressed -iterativedeploy -stage -deploy -cmdline="/Game/FirstPersonBP/Maps/FirstPersonExampleMap -Messaging" -device=WindowsNoEditor@DESKTOP-R3E79K2 -addcmdline="-SessionId=EED0C0874B4B8A6F4956A4A4615883A8 -SessionOwner='kyles' -SessionName='Launch On Device'  " -run
+[2019.01.24-23.24.55:427][594]LogPlayLevel: Setting up ProjectParams for D:\Documents\GitHub\MazeGame\MazeGame\MazeGame.uproject
+[2019.01.24-23.24.55:485][596]LogPlayLevel: ********** STAGE COMMAND STARTED **********
+[2019.01.24-23.24.55:566][599]LogPlayLevel: Creating Staging Manifest...
+[2019.01.24-23.24.55:566][599]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.21\Engine\Config\BaseEditor.ini
+[2019.01.24-23.24.55:566][599]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.21\Engine\Config\BaseEditorKeyBindings.ini
+[2019.01.24-23.24.55:566][599]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.21\Engine\Config\BaseEditorLayout.ini
+[2019.01.24-23.24.55:566][599]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.21\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2019.01.24-23.24.55:566][599]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.21\Engine\Config\BaseEditorSettings.ini
+[2019.01.24-23.24.55:566][599]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.21\Engine\Config\BaseLightmass.ini
+[2019.01.24-23.24.55:566][599]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.21\Engine\Config\Localization\Category.ini
+[2019.01.24-23.24.55:568][599]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.21\Engine\Config\Localization\Editor.ini
+[2019.01.24-23.24.55:568][599]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.21\Engine\Config\Localization\EditorTutorials.ini
+[2019.01.24-23.24.55:568][599]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.21\Engine\Config\Localization\Engine.ini
+[2019.01.24-23.24.55:568][599]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.21\Engine\Config\Localization\Keywords.ini
+[2019.01.24-23.24.55:568][599]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.21\Engine\Config\Localization\PortableObjectExport.ini
+[2019.01.24-23.24.55:568][599]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.21\Engine\Config\Localization\PortableObjectImport.ini
+[2019.01.24-23.24.55:568][599]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.21\Engine\Config\Localization\PropertyNames.ini
+[2019.01.24-23.24.55:568][599]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.21\Engine\Config\Localization\RepairData.ini
+[2019.01.24-23.24.55:568][599]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.21\Engine\Config\Localization\ResourceFileGen.ini
+[2019.01.24-23.24.55:568][599]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.21\Engine\Config\Localization\ToolTips.ini
+[2019.01.24-23.24.55:570][599]LogPlayLevel: Excluding config file C:\Program Files\Epic Games\UE_4.21\Engine\Config\Localization\WordCount.ini
+[2019.01.24-23.24.55:570][599]LogPlayLevel: Excluding config file D:\Documents\GitHub\MazeGame\MazeGame\Config\DefaultEditor.ini
+[2019.01.24-23.24.55:620][601]LogPlayLevel: Excluding config file D:\Documents\GitHub\MazeGame\MazeGame\Config\DefaultEditorPerProjectUserSettings.ini
+[2019.01.24-23.24.55:626][601]LogPlayLevel: Completed Launch On Stage: Build Task, Time: 1.003695
+[2019.01.24-23.24.55:642][602]LogPlayLevel: Cleaning Stage Directory: D:\Documents\GitHub\MazeGame\MazeGame\Saved\StagedBuilds\WindowsNoEditor
+[2019.01.24-23.24.56:151][620]LogPlayLevel: Copying NonUFSFiles to staging directory: D:\Documents\GitHub\MazeGame\MazeGame\Saved\StagedBuilds\WindowsNoEditor
+[2019.01.24-23.24.56:816][644]LogPlayLevel: Copying DebugFiles to staging directory: D:\Documents\GitHub\MazeGame\MazeGame\Saved\StagedBuilds\WindowsNoEditor
+[2019.01.24-23.25.04:232][921]LogPlayLevel: Copying UFSFiles to staging directory: D:\Documents\GitHub\MazeGame\MazeGame\Saved\StagedBuilds\WindowsNoEditor
+[2019.01.24-23.25.04:233][921]LogPlayLevel: ********** STAGE COMMAND COMPLETED **********
+[2019.01.24-23.25.04:233][921]LogPlayLevel: ********** PACKAGE COMMAND STARTED **********
+[2019.01.24-23.25.04:235][921]LogPlayLevel: ********** PACKAGE COMMAND COMPLETED **********
+[2019.01.24-23.25.04:237][921]LogPlayLevel: ********** DEPLOY COMMAND STARTED **********
+[2019.01.24-23.25.04:237][921]LogPlayLevel: Warning: WARNING: Win64 does not implement Deploy...
+[2019.01.24-23.25.04:237][921]LogPlayLevel: ********** DEPLOY COMMAND COMPLETED **********
+[2019.01.24-23.25.04:239][921]LogPlayLevel: ********** RUN COMMAND STARTED **********
+[2019.01.24-23.25.04:249][921]LogPlayLevel: Starting Client....
+[2019.01.24-23.25.04:391][927]LogPlayLevel: Completed Launch On Stage: Deploy Task, Time: 8.264156
+[2019.01.24-23.25.14:886][318]LogPlayLevel: Running: D:\Documents\GitHub\MazeGame\MazeGame\Saved\StagedBuilds\WindowsNoEditor\Engine\Binaries\Win64\UE4Game.exe ../../../MazeGame/MazeGame.uproject /Game/FirstPersonBP/Maps/FirstPersonExampleMap -stdout -abslog="C:\Users\kyles\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.21\Client.log" -Messaging -Windowed -CrashForUAT -SessionId=EED0C0874B4B8A6F4956A4A4615883A8 -SessionOwner="kyles" -SessionName="Launch On Device"
+[2019.01.24-23.25.14:888][318]LogPlayLevel: LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2019.01.24-23.25.19:525][491]LogPlayLevel: LogInit: Display: Running engine for game: MazeGame
